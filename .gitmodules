@@ -1,3 +1,9 @@
 [submodule "exams"]
 	path = exams
 	url = https://github.com/yexuanyang/InifiniTensorCamTest.git
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = https://github.com/yexuanyang/learning-cxx.git
+[submodule "rustlings"]
+	path = rustlings
+	url = https://github.com/yexuanyang/rustlings.git
